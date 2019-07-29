@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/PioterDz/redux/issues"
   },
-  "homepage": "https://github.com/PioterDz/redux#readme"
+  "homepage": "https://github.com/PioterDz/redux#readme",
+  "dependencies": {
+    "uuid": "^3.3.2"
+  }
 }
